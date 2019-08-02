@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4C9DB4F422F4BBA000B38354 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9DB4F322F4BBA000B38354 /* main.swift */; };
+		5F7CE48E67B3061640B2F190 /* CloverParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7CEE7FEE2AFE9F69D49833 /* CloverParser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		4C9DB4F022F4BBA000B38354 /* ParserPlist */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ParserPlist; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C9DB4F322F4BBA000B38354 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		5F7CEE7FEE2AFE9F69D49833 /* CloverParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CloverParser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				4C9DB4F322F4BBA000B38354 /* main.swift */,
+				5F7CEE7FEE2AFE9F69D49833 /* CloverParser.swift */,
 			);
 			path = ParserPlist;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C9DB4F422F4BBA000B38354 /* main.swift in Sources */,
+				5F7CE48E67B3061640B2F190 /* CloverParser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
